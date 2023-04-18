@@ -1,1 +1,4 @@
 hdfs
+pyspark
+pandas
+xlsxwriter
